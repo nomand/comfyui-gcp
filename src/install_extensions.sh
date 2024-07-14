@@ -92,15 +92,15 @@ git clone https://github.com/melMass/comfy_mtb custom_nodes/comfy_mtb
 pip install -r custom_nodes/comfy_mtb/requirements.txt
 python custom_nodes/comfy_mtb/scripts/download_models.py 
 
-git clone https://github.com/shingo1228/ComfyUI-SDXL-EmptyLatentImage custom_nodes/ComfyUI-SDXL-EmptyLatentImage
-git clone https://github.com/WASasquatch/FreeU_Advanced
-git clone https://github.com/Nourepide/ComfyUI-Allor custom_nodes/ComfyUI-Allor
-git clone https://github.com/bash-j/mikey_nodes
-git clone https://github.com/M1kep/ComfyLiterals
-git clone https://github.com/rgthree/rgthree-comfy
-git clone https://github.com/chrisfreilich/virtuoso-nodes
-git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts
-git clone https://github.com/palant/image-resize-comfyui custom_nodes/image-resize-comfyui
+git clone https://github.com/shingo1228/ComfyUI-SDXL-EmptyLatentImage 	custom_nodes/ComfyUI-SDXL-EmptyLatentImage
+git clone https://github.com/WASasquatch/FreeU_Advanced 				custom_nodes/FreeU_Advanced
+git clone https://github.com/Nourepide/ComfyUI-Allor 					custom_nodes/ComfyUI-Allor
+git clone https://github.com/bash-j/mikey_nodes 						custom_nodes/mikey_nodes
+git clone https://github.com/M1kep/ComfyLiterals 						custom_nodes/ComfyLiterals
+git clone https://github.com/rgthree/rgthree-comfy 						custom_nodes/rgthree-comfy
+git clone https://github.com/chrisfreilich/virtuoso-nodes				custom_nodes/virtuoso-nodes
+git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts		custom_nodes/ComfyUI-Custom-Scripts
+git clone https://github.com/palant/image-resize-comfyui 				custom_nodes/image-resize-comfyui
 
 
 
