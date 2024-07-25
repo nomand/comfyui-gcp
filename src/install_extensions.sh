@@ -92,6 +92,9 @@ git clone https://github.com/melMass/comfy_mtb custom_nodes/comfy_mtb
 pip install -r custom_nodes/comfy_mtb/requirements.txt
 python custom_nodes/comfy_mtb/scripts/download_models.py 
 
+git clone https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg.git custom_nodes/comfy_mtb
+pip install -r custom_nodes/ComfyUI-Inspyrenet-Rembg/requirements.txt
+
 git clone https://github.com/shingo1228/ComfyUI-SDXL-EmptyLatentImage 	custom_nodes/ComfyUI-SDXL-EmptyLatentImage
 git clone https://github.com/WASasquatch/FreeU_Advanced 				custom_nodes/FreeU_Advanced
 git clone https://github.com/Nourepide/ComfyUI-Allor 					custom_nodes/ComfyUI-Allor

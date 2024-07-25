@@ -1,0 +1,14 @@
+{
+    "Comfy.InvertMenuScrolling": false,
+    "Comfy.SnapToGrid.GridSize": "10",
+    "VHS.AdvancedPreviews": true,
+    "Comfy.MenuPosition": true,
+    "Comfy.ColorPalette": "dark",
+    "KJNodes.browserStatus": false,
+    "Crystools.switchGPU0": true,
+    "Crystools.switchTemperature0": true,
+    "Crystools.switchVRAM0": true,
+    "mtb.imageFeed.enabled": false,
+    "mtb.Debug.enabled": true,
+    "Comfy.DevMode": false
+}
